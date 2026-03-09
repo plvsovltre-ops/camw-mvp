@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.express as px
 from datetime import date
 
-st.set_page_config(page_title="CASPI Methane Watch", layout="wide", page_icon="🌍")
-st.title("🌍 CASPI Methane Watch (CAMW)")
+st.set_page_config(page_title="Central Asia Methane Watch", layout="wide", page_icon="🌍")
+st.title("🌍 Central Asia Methane Watch (CAMW)")
 st.markdown("**Пилот S.O.R.B.U.L.A.Q.** — озеро Сорбулак, Центральная Азия")
 
 st.sidebar.header("Параметры")
